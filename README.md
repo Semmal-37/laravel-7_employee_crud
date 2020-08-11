@@ -42,7 +42,7 @@ Install datatables package:
 ]
 .....
  ```
-Install Maatwebsite Package:
+Install Maatwebsite Package for Import and Export in Excel sheet:
 ```bash
 composer require maatwebsite/excel
 ````
